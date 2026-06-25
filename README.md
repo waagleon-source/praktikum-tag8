@@ -1,2 +1,16 @@
 # Praktikum Tag 8
-Mein erstes GitHub-Projekt.
+Dies ist meine zweite Praktikumswoche
+## Tech-Stack
+-HTML5
+-CSS3
+-JavaScript (Vanilla)
+
+## Setup
+1. Repo clonen: "git clone ..."
+2. Im Browser öffnen: "index.html"
+## Features
+-Feature A
+-Feature B
+
+## Lizenz
+MIT - siehe [LICENSE](LICENSE)
