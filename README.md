@@ -1,1 +1,2 @@
-"# praktikum-tag8" 
+# Praktikum Tag 8
+Mein erstes GitHub-Projekt.
