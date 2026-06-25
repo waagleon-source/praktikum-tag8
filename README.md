@@ -1,1 +1,2 @@
-hir ist ein Tippfehler für die Bonusaufgabe
+
+Hier war ein Tippfehler
